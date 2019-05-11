@@ -1,0 +1,7 @@
+{
+  "name": "newPRISMA",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
